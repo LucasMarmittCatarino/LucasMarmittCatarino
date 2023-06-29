@@ -16,6 +16,7 @@
 </div>
 
 #
-<div align="center" style="background-color: #261d15;">
-  <img src="https://media0.giphy.com/media/687qS11pXwjCM/giphy.gif"/>
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/9GLuP5vXXrQDSk06wD/giphy.gif?cid=6c09b952xg2w0lwsdwaydk3nsoeqy2szvyhoqfsgazoe2lat&ep=v1_stickers_related&rid=giphy.gif&ct=s"/>
+  <img height="300" src="https://media2.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47qmwm3n7a4xoj7ij68fbnjq3fsd790jwucy3vrf1n&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 </div>
