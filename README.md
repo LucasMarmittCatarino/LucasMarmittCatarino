@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Lucas Catarino🧙‍♂️</h1>
-<h3 align="center">A React front-end developer</h3>
+<h3 align="center">A front-end developer</h3>
 
 <div>
   <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=LucasMarmittCatarino&theme=github_dark&rank_icon=github&show_icons=true"/>
